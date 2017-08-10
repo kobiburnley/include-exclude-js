@@ -1,0 +1,22 @@
+{
+  "name": "include-exclude",
+  "version": "1.0.0",
+  "description": "",
+  "main": "determine.included.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.22.0",
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-register": "^6.22.0",
+    "chai": "^3.5.0"
+  }
+}
